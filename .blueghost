@@ -90,7 +90,6 @@ function blueghost() {
 		Scan/Ban) banip;;
 		UnbanAnAddress) Unban;;
 		ListAllBanned) ListAllBanned;;
-		CheckMalicious) Check;;
 		TraceRoute) tracert;;
 		Exit) clear; break;;
 	esac
