@@ -17,8 +17,8 @@ A function to list all banned IPs.
 A function to perform traceroutes on IPs.
 
 # Installation
-Enter this one liner command in terminal to install (as root):
+Enter this one liner command in terminal to install:
 
-git clone https://github.com/d4rk007/BlueGhost;
+sudo git clone https://github.com/d4rk007/BlueGhost;
 cd BlueGhost;
 source install.sh; cd;
