@@ -7,7 +7,7 @@ Scan and ban shows connected IPs, scans IP addresses for open ports using nmap a
 shows activity on the system, checks abuseipdb.com for reports and offers a ban function to ban unwanted IPs using iptables.
 
 
-- Uban 
+- UbanAnAddress
 A function to unban IPs.
 
 - ListAllBanned
