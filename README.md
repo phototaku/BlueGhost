@@ -1,5 +1,5 @@
 # BlueGhost
-This tool utilizes various linux network tools and bash scripting to assist blue teams on defending debian and ubuntu based servers from malicious attackers/governments.
+This tool utilizes various linux network tools and bash scripting to assist blue teams on defending debian and ubuntu based servers from malicious attackers.
 ![bg](https://user-images.githubusercontent.com/44454186/59632242-4814d900-9139-11e9-8585-46aa4fa66690.PNG)
 
 - Scan/Ban
