@@ -15,3 +15,10 @@ A function to list all banned IPs.
 
 - TraceRoute
 A function to perform traceroute's on IPs.
+
+- Installation
+Enter these commands in terminal to install:
+
+git clone https://github.com/d4rk007/BlueGhost
+cd BlueGhost
+source install.sh
