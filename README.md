@@ -14,7 +14,7 @@ A function to unban IPs.
 A function to list all banned IPs.
 
 - TraceRoute
-A function to perform traceroute's on IPs.
+A function to perform traceroutes on IPs.
 
 # Installation
 Enter this one liner command in terminal to install (as root):
