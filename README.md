@@ -1,4 +1,5 @@
 # BlueGhost
+![fvdfvd](https://user-images.githubusercontent.com/44454186/59632175-24519300-9139-11e9-8fbd-a971f46b0a64.PNG)
 This tool utilizes various bash tools and functions to assist blue teams on defending debian and ubuntu based servers from 
 malicious attackers/governments.
 
