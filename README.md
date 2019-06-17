@@ -21,4 +21,4 @@ Enter this one liner command in terminal to install (as root):
 
 git clone https://github.com/d4rk007/BlueGhost;
 cd BlueGhost;
-source install.sh;
+source install.sh; cd;
